@@ -6,9 +6,11 @@ This project is still a WIP. I'm working on it whenever I have free time. In the
 I've tested it using antiscan.me with r77 rootkit compiled executable.
 
 Before Crypt:
+
 ![image](https://user-images.githubusercontent.com/60044819/116005237-bfa5d000-a60e-11eb-8dad-77ded8dd7f92.png)
 
 After Crypt:
+
 ![image](https://user-images.githubusercontent.com/60044819/116005246-c92f3800-a60e-11eb-901e-11b5657a77e6.png)
 
 # Credits
