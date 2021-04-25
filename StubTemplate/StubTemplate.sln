@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StubTemplate", "StubTemplate\StubTemplate.csproj", "{F21EF4D5-DF8C-442E-8E92-CCB12FF4457B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F21EF4D5-DF8C-442E-8E92-CCB12FF4457B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F21EF4D5-DF8C-442E-8E92-CCB12FF4457B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F21EF4D5-DF8C-442E-8E92-CCB12FF4457B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F21EF4D5-DF8C-442E-8E92-CCB12FF4457B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19B303D2-134C-4FAF-B007-CE51EE4EECF2}
+	EndGlobalSection
+EndGlobal
