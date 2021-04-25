@@ -45,28 +45,3 @@ namespace L_Crypter
 
     }
 }
-
-
-/// Random Varibles Guide:
-//{-1} = iterations input
-//{0} = Encrypted data from data gathering with base64
-//{1} = encryptionKey
-//{2} = encrypted data bytes
-//{3} = encryptionKey
-//{4} = aes
-//{5} = data
-//{6} = inputStream
-//{7} = gZipStream
-//{8} = outputStream
-//{9} = decompressedData
-//{10} = Decompress
-//{11} = data
-//{12} = key
-//{13} = IV
-//{14} = decryptor
-//{15} = Decrypt
-//{16} = payload
-//{17} = namespace
-//{18} = class name
-//{19} = iterations
-//{20} = random obj
