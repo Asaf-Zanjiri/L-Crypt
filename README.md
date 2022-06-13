@@ -2,6 +2,9 @@
 This is my first experience making a crypter. This software gets .Net EXE file and outputs .cs uncompiled stub code
 This project is still a WIP. I'm working on it whenever I have free time. In the future i'll try to improve the detection rate.
 
+# Update
+Currently working on my own implementations of process-hollowing
+
 # Detections
 I've tested it using antiscan.me with r77 rootkit compiled executable.
 
